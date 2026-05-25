@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "A professional productivity operating system for thanwye students",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "elshaikh studypoint",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "STUDY POINT",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "com.elshaikh"
+}
